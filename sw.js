@@ -1,6 +1,6 @@
 /* FinCalc 17 · service worker
    Para publicar una versión nueva basta con cambiar VERSION (y subir el index.html nuevo). */
-const VERSION = 'fincalc17-v19';
+const VERSION = 'fincalc17-v19b';
 const FILES = ['./', './index.html', './manifest.json',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png'];
 
