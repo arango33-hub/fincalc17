@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33635712/README.md)
 # FinCalc 17
 
 **Español** · [English](#english)
@@ -21,7 +20,7 @@ FinCalc 17 es un **proyecto de prueba** para crear una calculadora financiera co
 
 ### Cómo usarla
 
-Abra la página publicada del repositorio en el navegador e instálela como aplicación:
+Abra **https://arango33-hub.github.io/fincalc17/** en el navegador e instálela como aplicación:
 
 - **Android:** en Chrome, toque **⋮ → Instalar aplicación** (o **Agregar a pantalla principal → Instalar**).
 - **iPhone:** en Safari, toque el botón **Compartir** (el cuadro con la flecha hacia arriba, en la barra de abajo), luego **Agregar a pantalla de inicio** y **Agregar**. Si no aparece la opción, deslice la lista hacia abajo o toque **Editar acciones** para activarla.
@@ -61,7 +60,7 @@ FinCalc 17 is a **test project** to build a financial calculator with more capab
 
 ### How to use it
 
-Open this repository's published page in a browser and install it as an app:
+Open **https://arango33-hub.github.io/fincalc17/** in a browser and install it as an app:
 
 - **Android:** in Chrome, tap **⋮ → Install app** (or **Add to Home screen → Install**).
 - **iPhone:** in Safari, tap the **Share** button (the square with an upward arrow, in the bottom bar), then **Add to Home Screen** and **Add**. If the option is missing, scroll down the list or tap **Edit Actions** to turn it on.
